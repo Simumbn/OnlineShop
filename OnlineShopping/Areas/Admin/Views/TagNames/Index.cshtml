@@ -1,0 +1,81 @@
+﻿@model IEnumerable<OnlineShopping.Models.TagNames>
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+}
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <h2 class="text-info">Tag Name List</h2>
+    </div>
+    <div class="col-6" style="text-align:right">
+        <a asp-action="Create" class="btn btn-info">&nbsp;<i class="fas fa-plus-square"></i>Add Tag Name</a>
+    </div>
+</div>
+
+<div>
+    <table class="table table-striped border" id="myTable">
+        <thead>
+            <tr class="table-info">
+                <th>SL No.</th>
+                <th>
+                    @Html.DisplayNameFor(expression: c => c.TagName)
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@i</td>
+                    <td>@item.TagName</td>
+                    <td>
+                        <partial name="_ButtonPartial" model="@item.ID" />
+                    </td>
+                </tr>
+                 i++;
+            }
+           
+        </tbody>
+       
+    </table>
+</div>
+
+
+@section scripts{
+    <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready( function () {
+            $('#myTable').DataTable({
+                dom: 'Bfrtip',
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 'print'
+                ]
+            });
+        } );
+
+
+        $(document).ready(function () {
+            var Save = '@TempData["Save"]'
+                if (Save != '') {
+                    alertify.success(Save);
+                }
+            var Edit = '@TempData["Edit"]'
+                if (Edit != '') {
+                    alertify.warning(Edit);
+                }
+
+            var Delete = '@TempData["Delete"]'
+                if (Delete != '') {
+                    alertify.error(Delete);
+                }
+        })
+    </script>
+}

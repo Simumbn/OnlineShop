@@ -1,0 +1,748 @@
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.json
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.deps.json
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.json
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.dev.json
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.dll
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.pdb
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.dll
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cache
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfoInputs.cache
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfo.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.input.cache
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.output.cache
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorCoreGenerate.cache
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Details.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cache
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.dll
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.pdb
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csproj.CopyComplete
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csprojAssemblyReference.cache
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PartialView.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
+G:\MVS Practice\Project\2\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\DeleteAssignRole.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cache
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfoInputs.cache
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfo.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.json
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.deps.json
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.json
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.dev.json
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.dll
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.pdb
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.dll
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csprojAssemblyReference.cache
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.input.cache
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.output.cache
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorCoreGenerate.cache
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\DeleteAssignRole.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Details.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PartialView.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cache
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cs
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.dll
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.pdb
+G:\MVS Practice\Project\2\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csproj.CopyComplete
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.json
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.deps.json
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.json
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.dev.json
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.dll
+F:\BITM\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csprojAssemblyReference.cache
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cache
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfoInputs.cache
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfo.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.input.cache
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.output.cache
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorCoreGenerate.cache
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\DeleteAssignRole.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Create.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Delete.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Details.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Edit.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Index.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PartialView.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cache
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cs
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csproj.CopyComplete
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.json
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.deps.json
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.json
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.dev.json
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.dll
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csprojAssemblyReference.cache
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cache
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfoInputs.cache
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfo.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.input.cache
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.output.cache
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorCoreGenerate.cache
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\DeleteAssignRole.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Create.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Delete.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Details.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Edit.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Index.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Payment.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PartialView.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cache
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cs
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\P1\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csproj.CopyComplete
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.json
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.deps.json
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.json
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.dev.json
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.dll
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cache
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfoInputs.cache
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfo.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.input.cache
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.output.cache
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorCoreGenerate.cache
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\DeleteAssignRole.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Create.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Delete.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Details.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Edit.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Index.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Payment.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PartialView.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cache
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cs
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\P1\8 (16)\8\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csproj.CopyComplete
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.json
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.deps.json
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.json
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.dev.json
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.dll
+F:\BITM\P1\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cache
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfoInputs.cache
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfo.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.input.cache
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.output.cache
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorCoreGenerate.cache
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\DeleteAssignRole.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Create.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Delete.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Details.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Edit.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Index.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PartialView.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cache
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csproj.CopyComplete
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csprojAssemblyReference.cache
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Create.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Delete.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Details.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Edit.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Index.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Checkout.cshtml.g.cs
+F:\BITM\P1\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Payment.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\appsettings.json
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.deps.json
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.json
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.runtimeconfig.dev.json
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.dll
+F:\BITM\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csprojAssemblyReference.cache
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cache
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorAssemblyInfo.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfoInputs.cache
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.AssemblyInfo.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.input.cache
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.TagHelpers.output.cache
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorCoreGenerate.cache
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Assign.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\AssignUserRole.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Delete.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\DeleteAssignRole.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Create.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Delete.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Details.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Edit.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\TagNames\Index.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Checkout.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Create.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Delete.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Details.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Edit.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Index.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Orders\Payment.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_PartialView.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cache
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.RazorTargetAssemblyInfo.cs
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.Views.pdb
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.dll
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.pdb
+F:\BITM\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp2.2\OnlineShopping.csproj.CopyComplete
